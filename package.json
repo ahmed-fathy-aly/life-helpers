@@ -1,0 +1,25 @@
+{
+  "name": "life-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-fathy-aly/life-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-fathy-aly/life-helpers/issues"
+  },
+  "homepage": "https://github.com/ahmed-fathy-aly/life-helpers#readme",
+  "dependencies": {
+    "make-runnable": "^1.3.6",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "util": "^0.10.3"
+  }
+}
